@@ -1,5 +1,5 @@
 # About Me:
-Self-Taught tech entrepeneur exprimenting with virtualization, website building, discord bots, game servers, and many other projects.
+Self-Taught tech entrepeneur experimenting with virtualization, website building, discord bots, game servers, and many other projects.
 Feel free to ask me about Chromegle, Rune Guardian, Or any of my other projects in my discord server!
 
 > Security note: I will be using commit signing from now on, any unverified commit made after 3/31/2026 should not be trusted.
