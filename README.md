@@ -2,7 +2,7 @@
 Self-Taught tech entrepeneur exprimenting with virtualization, website building, discord bots, game servers, and many other projects.
 Feel free to ask me about Chromegle, Rune Guardian, Or any of my other projects in my discord server!
 
-> Security note: I will be using commit signing from now on, any unverified commit made after 3/21/2026 should not be trusted.
+> Security note: I will be using commit signing from now on, any unverified commit made after 3/31/2026 should not be trusted.
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/422p3anb3T) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xanzinfl) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@xanzinfl) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/xanzinfl) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xanzinfl) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@xanzinfl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xanzinfl@bloodmoonstudios.xyz) 
 
